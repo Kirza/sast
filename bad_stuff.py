@@ -17,13 +17,9 @@ s.recvfrom_into()
 
 
 
-from crypt import AES
-from Crypto.Cipher import DES
-print(are)
-print('are')
-from Crypto.Cipher import RC2
-from Crypto.Cipher import RC1
-from Crypto.Cipher import RC1, DES
+password = 'qwerty123'
+api_key = '203b0cdd-d040-4b2b-9db5-0a05391c31a6'
+no_bad_stuff = here
 
 
 
